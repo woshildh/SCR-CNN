@@ -1,2 +1,2 @@
 # SCR-CNN
-This is source code for Spatial and Channel Restrain CNN.
+This is source code for Spatial and Channel Restraint CNN.  
